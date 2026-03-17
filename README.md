@@ -211,4 +211,11 @@
           stored_procedure_for_inserting_data.py
           
           functions_db.py
-![My Image](Steamlit page.png) <img width="1895" height="848" alt="image" src="https://github.com/user-attachments/assets/a505769f-fef2-4ef1-a15a-682ff8ccc960" />
+ <img width="1895" height="848" alt="image" src="https://github.com/user-attachments/assets/a505769f-fef2-4ef1-a15a-682ff8ccc960" /> <img width="1317" height="747" alt="image" src="https://github.com/user-attachments/assets/16541d95-602d-4800-b03c-46d13b926137" />
+<img width="1322" height="726" alt="image" src="https://github.com/user-attachments/assets/fdbad926-4ed7-410a-944c-d8fdaf32b38d" />
+<img width="1322" height="726" alt="image" src="https://github.com/user-attachments/assets/c381b81c-960d-4fce-999e-426f47bab5ac" />
+<img width="1331" height="756" alt="image" src="https://github.com/user-attachments/assets/42e1696c-b53e-412c-bc1b-714b5d52a63d" />
+<img width="1206" height="496" alt="image" src="https://github.com/user-attachments/assets/f9ef39d0-c2ed-45f2-bcb6-c2ef9b4bba13" />
+![Uploading image.png…]()
+<img width="1324" height="751" alt="image" src="https://github.com/user-attachments/assets/17bc63cd-2806-4348-9825-08ab29284349" />
+
