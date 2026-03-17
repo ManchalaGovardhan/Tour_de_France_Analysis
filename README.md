@@ -211,3 +211,4 @@
           stored_procedure_for_inserting_data.py
           
           functions_db.py
+![My Image](Steamlit page.png) <img width="1895" height="848" alt="image" src="https://github.com/user-attachments/assets/a505769f-fef2-4ef1-a15a-682ff8ccc960" />
