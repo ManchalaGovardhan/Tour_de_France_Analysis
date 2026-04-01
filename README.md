@@ -15,6 +15,25 @@
         Includes flat, hilly, and mountain stages
         
         It is widely considered the most challenging and iconic event in professional cycling.
+        📌 Overview
+
+The Tour de France is the world’s most prestigious professional cycling race, held annually and spanning approximately three weeks with 21 stages across flat, hilly, and mountainous terrains. This project analyzes historical race data to generate insights into rider performance, stage outcomes, and long-term trends.
+
+❗ Problem Statement
+⚙️ Project Workflow (End-to-End System)
+Analyzing large-scale sports data to extract meaningful insights is challenging due to data inconsistencies, multiple data sources, and the need for real-time updates. This project aims to build a scalable analytics system that enables efficient data processing, validation, and real-time visualization of Tour de France data.
+
+⚙️ Project Workflow (End-to-End System)
+
+This project is designed as a complete data pipeline with real-time analytics:
+
+User interacts via Streamlit App
+Data is fetched from and inserted into a relational database
+Data cleaning is automatically applied using Python
+Cleaned data is used for:
+Real-time insights in Streamlit
+Interactive dashboards in Power BI
+SQL queries validate and ensure data accuracy
 
 ⚙️ How the Project Works (End-to-End Flow)
 
@@ -210,7 +229,42 @@
           
           stored_procedure_for_inserting_data.py
           
-          functions_db.py
+          functions_db.py🛠️ Tech Stack
+          
+Programming: Python
+Libraries: Pandas
+Visualization: Power BI
+Database: SQL (Relational DB)
+App Framework: Streamlit
+
+
+🔄 Real-Time Data Flow
+New data added via Streamlit
+Stored procedures insert data into database
+Python cleaning functions process data automatically
+Power BI dashboards refresh instantly
+Streamlit insights update in real-time
+
+📂 Project Structure
+app.py → Streamlit application
+cleaning_data.py → Data cleaning pipeline
+cleaning_functions.py → Reusable cleaning functions
+python_database.ipynb → Database creation & insertion
+stored_procedure_for_inserting_data.py → Data insertion logic
+tourbi.pbix → Power BI dashboard
+
+📈 Results & Insights
+Built a scalable real-time analytics system
+Enabled dynamic exploration of historical race data
+Ensured data accuracy through SQL validation
+Delivered interactive dashboards and insights
+
+🔮 Future Improvements
+Add predictive analytics (winner prediction models)
+Deploy application on cloud (AWS/Azure)
+Enhance UI/UX of Streamlit app
+make inter face to upadate data by user
+
  <img width="1895" height="848" alt="image" src="https://github.com/user-attachments/assets/a505769f-fef2-4ef1-a15a-682ff8ccc960" />
 
 
